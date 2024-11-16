@@ -1,0 +1,114 @@
+{
+    "model": "cardsSection",
+    "srcType": "sanity",
+    "srcProjectId": "uzf6uqni:production",
+    "presets": [
+        {
+            "label": "Services",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Template general"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "Services to optimize business operations",
+                "body": "",
+                "items": [
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "PERFORMANCE",
+                            "theme": "accent"
+                        },
+                        "heading": "Supply Chain Management",
+                        "body": "\nWe help streamline the entire supply chain to reduce costs and improve efficiency, ensuring timely delivery of products.\n\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-738bd4c74451236169ced4c49094b140ed4e207c-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "EXPAND",
+                            "theme": "primary"
+                        },
+                        "heading": "IT/ERP Implementation",
+                        "body": "Hands-on assistance in various roles and projects related to ERP systems focussed on Sales, Distribution, Inventory and Masterdata.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-f1026fcdccde3485090d05b0bab00cb486b85e13-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "EMPOWER",
+                            "theme": "secondary"
+                        },
+                        "heading": "Logistics",
+                        "body": "We design efficient logistics networks to minimize delays and reduce overhead costs, boosting customer satisfaction. For example in transport or emballage. \n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-10d4766279c02579a966a64d5637621d06b45a8e-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    }
+                ],
+                "theme": null,
+                "backgroundImage": null,
+                "width": null,
+                "columns": null
+            }
+        }
+    ]
+}
